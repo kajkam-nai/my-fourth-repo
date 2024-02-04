@@ -1,0 +1,12 @@
+h3{
+    color: rgb(28, 173, 15);
+    
+}
+
+div{
+    background-color:yellow;
+    border: 8px solid blue;
+    margin: 7px;
+    padding: 12px;
+    border-radius: 22px;
+}
