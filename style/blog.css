@@ -1,11 +1,11 @@
 h3{
-    color: rgb(28, 173, 15);
+    color: red;
     
 }
 
 div{
-    background-color:yellow;
-    border: 8px solid blue;
+    background-color:greenyellow;
+    border: 8px solid violet;
     margin: 7px;
     padding: 12px;
     border-radius: 22px;
